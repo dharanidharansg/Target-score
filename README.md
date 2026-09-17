@@ -51,7 +51,7 @@ A single-screen Android app, built with **MIT App Inventor**, that challenges pl
 
 
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot_20260917_103846.jpg)
 
 
 
